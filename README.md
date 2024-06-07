@@ -6,11 +6,11 @@ The proposed system aims to develop a comprehensive methodology for preprocessin
 
  # Key components of the system include:
 
-1) # Data Preprocessing:
+ # 1) Data Preprocessing:
    Techniques like noise removal, tokenization, stopword removal, stemming/lemmatization, and normalization are used to prepare the text data.
 
-2) # Feature Extraction:
+ # 2) Feature Extraction:
    The Term Frequency-Inverse Document Frequency (TF-IDF) method is used to assign weights to words based on their frequency and rarity, capturing the significance of words in the text data.
 
-3) # Machine Learning Models:
+ # 3) Machine Learning Models:
    Multiple algorithms, including logistic regression, decision tree, gradient boosting, and random forest, are implemented to analyze the preprocessed text data.
